@@ -1,0 +1,28 @@
+body{
+    background-image: url(../imgcerrado/cerradoresponsivo.jpg.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+h1{
+    font-family: sans-serif;
+    text-align: center;
+}
+h2{
+    font-family: sans-serif;
+    text-align: center;
+    font-size: 15px;
+}
+p{
+    font-family: sans-serif;
+    
+    
+}
+
+ul li {
+    display: inline-block;
+}
+.tabela{
+    border:2px, solid;
+    border-color: black;
+
+}
